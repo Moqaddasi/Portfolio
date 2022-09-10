@@ -1,8 +1,6 @@
 import React from 'react';
-import Socials from './Socials';
 //  icons
 import {
-  FiInstagram,
   FiGithub,
   FiLinkedin,
   FiTwitter,
