@@ -67,10 +67,10 @@ const Contact = () => {
             className='space-y-8 w-full max-w-[780px]'
           >
             <div className='flex gap-8'>
-              <input className='input' type='text' placeholder='Your name' required />
+              <input className='input' type='text' name='name' placeholder='Your name' required />
               <input className='input' type='email' name='email' placeholder='Your email' required />
             </div>
-            <input className='input' type='text' placeholder='Subject' required />
+            <input className='input' type='text' name='subject' placeholder='Subject' required />
             <textarea
               className='textarea'
               placeholder='Your message'
