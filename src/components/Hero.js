@@ -20,8 +20,7 @@ const Hero = () => {
               I'm FrontEnd <br /> Web Developer.
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-              Lorem ipsum dolor sit amet consectetur adipisicing illo ad labore
-              dolor elit.
+              I design and code beautifully simple things, and I love what I do.
             </p>
             <a download href={Resume} className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all hover:cursor-pointer' >
               My Resume {< FiDownload />}

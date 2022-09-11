@@ -19,8 +19,8 @@ const Contact = () => {
             Contact me
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+            Interested in working together? We should queue up a time to chat. I’ll buy the coffee.
+
           </p>
         </div>
         <div
@@ -44,24 +44,7 @@ const Contact = () => {
                 </div>
               );
             })}
-            <h4 className='uppercase'>Socials</h4>
-            <div className='flex flex-row gap-x-4' >
-              <div className='text-accent rounded-sm w-14 h-14 flex items-start justify-center mt-2 mb-4 lg:mb-0 text-2xl hover:text-white'>
-                <a href='https://github.com/amirhoseinmoqaddasi/'>
-                  <FiGithub />
-                </a>
-              </div>
-              <div className='text-accent rounded-sm w-14 h-14 flex items-start justify-center mt-2 mb-4 lg:mb-0 text-2xl hover:text-white'>
-                <a href='https://www.linkedin.com/in/amirhosein-moqaddasi/'>
-                  <FiLinkedin />
-                </a>
-              </div>
-              <div className='text-accent rounded-sm w-14 h-14 flex items-start justify-center mt-2 mb-4 lg:mb-0 text-2xl hover:text-white'>
-                <a href='https://twitter.com/Ah_moqaddasi'>
-                  <FiTwitter />
-                </a>
-              </div>
-            </div>
+
           </div>
           <form action="https://formsubmit.co/amirhoseinmoghaddasi11@gmail.com" method="POST"
             className='space-y-8 w-full max-w-[780px]'

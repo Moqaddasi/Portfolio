@@ -3,11 +3,11 @@ import {
   FiGithub,
   FiLayout,
   FiSettings,
-  FiPenTool,
   FiMail,
   FiLinkedin,
   FiTwitter,
 } from 'react-icons/fi';
+import { AiOutlineTeam } from 'react-icons/ai'
 
 // companies icons
 import FreelancerBrandIcon from './assets/img/brands/freelancer.png';
@@ -199,19 +199,19 @@ export const services = [
     icon: <FiLayout />,
     name: 'Web Design',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'I value simple content structure, clean design patterns, and thoughtful interactions.',
   },
   {
     icon: <FiSettings />,
     name: 'Web Development',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      'I’m comfortable working with different Front-end Development related technologies; JavaScript,React, Redux,HTML,CSS,TailWind,Sass,Scss, BootStrap,webPack, gitHub, XD, Texture or any other Tools for develope Front-end.',
   },
   {
-    icon: <FiPenTool />,
+    icon: <AiOutlineTeam />,
     name: 'Team Work',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
+      `I've also worked in agile teams and know about teamwork.This means I have mastery of collaboration.`,
   },
   // {
   //   icon: <FiTag />,
@@ -237,20 +237,20 @@ export const testimonials = [
     authorName: 'Olivia Doe',
     authorPosition: 'Head of Design, Google',
   },
-  {
-    authorImg: TestiImage3,
-    authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
-  },
-  {
-    authorImg: TestiImage3,
-    authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
-  },
+  // {
+  //   authorImg: TestiImage3,
+  //   authorText:
+  //     'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
+  //   authorName: 'Olivia Doe',
+  //   authorPosition: 'Head of Design, Google',
+  // },
+  // {
+  //   authorImg: TestiImage3,
+  //   authorText:
+  //     'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
+  //   authorName: 'Olivia Doe',
+  //   authorPosition: 'Head of Design, Google',
+  // },
 ];
 
 // contact

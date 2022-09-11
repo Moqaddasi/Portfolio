@@ -12,8 +12,9 @@ const Services = () => {
             What do I help
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+            You have landed here, because you need someone to work on your web site and
+            I’m the person who can help you with that.
+
           </p>
         </div>
         <div className='grid lg:grid-cols-3 gap-8'>

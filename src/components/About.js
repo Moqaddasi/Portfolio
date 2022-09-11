@@ -24,13 +24,16 @@ const About = () => {
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit tempore
-                earum dolorum quo consequatur rem nihil hic ducimus rerum soluta
-                neque harum velit molestiae dignissimos distinctio dolorum nisi
-                labore culpa nihil. <br />
+                I am a young Software engineer who has experienced working with
+                a Software Development team for approximately over two years.
+                Since beginning my journey as a Front-end developer
+                I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+                I am really into anime,
+                music and coffee is my favorite drink. Perhaps, you may guess that I am supporting the free Software.
+                Therefore, freedom is valuable to me in any form, especially in Software.
                 <br />
-                Qui doloremque quod sit accusantium unde totam inventore
-                cupiditate ratione esse maxime eum recusandae ducimus.
+                <br />
+                I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
               </p>
             </div>
             <Link to='contact'
