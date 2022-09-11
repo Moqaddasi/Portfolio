@@ -2,7 +2,7 @@ import React from 'react';
 
 import { FiDownload } from 'react-icons/fi';
 import Amirhosein from '../assets/img/Me.jpg';
-import Resume from '../assets/resume/MoqaddasiResume.pdf'
+import Resume from '../assets/resume/AmirhoseinMoqaddasiResume.pdf'
 
 const Hero = () => {
   return (
