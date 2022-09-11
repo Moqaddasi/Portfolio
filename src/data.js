@@ -37,7 +37,6 @@ import SkillImg6 from './assets/img/skills/Tailwind.png';
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/Ziba Akbari.svg.png';
 import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.webp';
 
 // navigation
 export const navigation = [

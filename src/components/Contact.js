@@ -1,10 +1,5 @@
 import React from 'react';
 //  icons
-import {
-  FiGithub,
-  FiLinkedin,
-  FiTwitter,
-} from 'react-icons/fi';
 
 // import contact data
 import { contact } from '../data';
