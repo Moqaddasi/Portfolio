@@ -63,12 +63,12 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          <form
+          <form action="https://formsubmit.co/amirhoseinmoghaddasi11@gmail.com" method="POST"
             className='space-y-8 w-full max-w-[780px]'
           >
             <div className='flex gap-8'>
               <input className='input' type='text' placeholder='Your name' required />
-              <input className='input' type='email' placeholder='Your email' required />
+              <input className='input' type='email' name='email' placeholder='Your email' required />
             </div>
             <input className='input' type='text' placeholder='Subject' required />
             <textarea
