@@ -23,7 +23,7 @@ const Hero = () => {
               I design and code beautifully simple things, and I love what I do.
             </p>
             <a download href={Resume} className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all hover:cursor-pointer' >
-              My Resume {< FiDownload />}
+              My Resume &nbsp; {< FiDownload />}
             </a>
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end h-auto'>
