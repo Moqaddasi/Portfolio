@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Moqaddasi.github.io/static/css/main.61e6f150.css",
+    "main.js": "/Moqaddasi.github.io/static/js/main.fcd9a42d.js",
+    "static/media/Me.jpg": "/Moqaddasi.github.io/static/media/Me.e5c10a6218c5665e65f8.jpg",
+    "static/media/MeAbout.jpeg": "/Moqaddasi.github.io/static/media/MeAbout.170a8600381c599e5966.jpeg",
+    "static/media/testimonial-2.webp": "/Moqaddasi.github.io/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/Ziba Akbari.svg.png": "/Moqaddasi.github.io/static/media/Ziba Akbari.svg.445aab2b6b1f474d2672.png",
+    "static/media/AmirhoseinMoqaddasiResume.pdf": "/Moqaddasi.github.io/static/media/AmirhoseinMoqaddasiResume.0b0b02b863ccd505999e.pdf",
+    "static/media/p1.webp": "/Moqaddasi.github.io/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/Moqaddasi.github.io/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/services.svg": "/Moqaddasi.github.io/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/Moqaddasi.github.io/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/testimonials.svg": "/Moqaddasi.github.io/static/media/testimonials.07294ae9606e6d7ea071.svg",
+    "static/media/p3.webp": "/Moqaddasi.github.io/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/Moqaddasi.github.io/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/p4.webp": "/Moqaddasi.github.io/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/Moqaddasi.github.io/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/Moqaddasi.github.io/static/media/p2.987c883e6e66df8a1228.webp",
+    "static/media/about.svg": "/Moqaddasi.github.io/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/Moqaddasi.github.io/index.html",
+    "main.61e6f150.css.map": "/Moqaddasi.github.io/static/css/main.61e6f150.css.map",
+    "main.fcd9a42d.js.map": "/Moqaddasi.github.io/static/js/main.fcd9a42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e6f150.css",
+    "static/js/main.fcd9a42d.js"
+  ]
+}
