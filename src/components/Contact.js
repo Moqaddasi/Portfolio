@@ -41,7 +41,7 @@ const Contact = () => {
             })}
 
           </div>
-          <form action="https://formsubmit.co/amirhoseinmoghaddasi11@gmail.com" method="POST"
+          <form action="https://formsubmit.co/ah.moqaddasi@gmail.com" method="POST"
             className='space-y-8 w-full max-w-[780px]'
           >
             <div className='flex gap-8'>
