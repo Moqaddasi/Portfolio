@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d4778faf.css",
-    "main.js": "/Portfolio/static/js/main.e0761944.js",
-    "static/media/Me.jpg": "/Portfolio/static/media/Me.e5c10a6218c5665e65f8.jpg",
-    "static/media/MeAbout.jpeg": "/Portfolio/static/media/MeAbout.170a8600381c599e5966.jpeg",
-    "static/media/testimonial-2.webp": "/Portfolio/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
-    "static/media/Ziba Akbari.svg.png": "/Portfolio/static/media/Ziba Akbari.svg.445aab2b6b1f474d2672.png",
-    "static/media/AmirhoseinMoqaddasiResume.pdf": "/Portfolio/static/media/AmirhoseinMoqaddasiResume.0b0b02b863ccd505999e.pdf",
-    "static/media/p1.webp": "/Portfolio/static/media/p1.52f0f3a89c11044c2037.webp",
-    "static/media/p5.webp": "/Portfolio/static/media/p5.40f22911cc8104bfdf42.webp",
-    "static/media/services.svg": "/Portfolio/static/media/services.2d6c88f25842315ca095.svg",
-    "static/media/portfolio.svg": "/Portfolio/static/media/portfolio.2f31f4be113e35cc3442.svg",
-    "static/media/testimonials.svg": "/Portfolio/static/media/testimonials.07294ae9606e6d7ea071.svg",
-    "static/media/p3.webp": "/Portfolio/static/media/p3.05179f007af7cd2ad2a6.webp",
-    "static/media/contact.svg": "/Portfolio/static/media/contact.ec60abf53c38c2593f7e.svg",
-    "static/media/p4.webp": "/Portfolio/static/media/p4.373ffd063f14c91c84c5.webp",
-    "static/media/p6.webp": "/Portfolio/static/media/p6.26fcf4320bfa0eacc03a.webp",
-    "static/media/p2.webp": "/Portfolio/static/media/p2.987c883e6e66df8a1228.webp",
-    "static/media/about.svg": "/Portfolio/static/media/about.70a8290c961c47c208b5.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.d4778faf.css.map": "/Portfolio/static/css/main.d4778faf.css.map",
-    "main.e0761944.js.map": "/Portfolio/static/js/main.e0761944.js.map"
+    "main.css": "/moqaddasi.github.io/static/css/main.6c8505f8.css",
+    "main.js": "/moqaddasi.github.io/static/js/main.273bf9ee.js",
+    "static/media/Me.jpg": "/moqaddasi.github.io/static/media/Me.e5c10a6218c5665e65f8.jpg",
+    "static/media/MeAbout.jpeg": "/moqaddasi.github.io/static/media/MeAbout.170a8600381c599e5966.jpeg",
+    "static/media/testimonial-2.webp": "/moqaddasi.github.io/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/Ziba Akbari.svg.png": "/moqaddasi.github.io/static/media/Ziba Akbari.svg.445aab2b6b1f474d2672.png",
+    "static/media/AmirhoseinMoqaddasiResume.pdf": "/moqaddasi.github.io/static/media/AmirhoseinMoqaddasiResume.0b0b02b863ccd505999e.pdf",
+    "static/media/p1.webp": "/moqaddasi.github.io/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/moqaddasi.github.io/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/services.svg": "/moqaddasi.github.io/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/moqaddasi.github.io/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/testimonials.svg": "/moqaddasi.github.io/static/media/testimonials.07294ae9606e6d7ea071.svg",
+    "static/media/p3.webp": "/moqaddasi.github.io/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/moqaddasi.github.io/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/p4.webp": "/moqaddasi.github.io/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/moqaddasi.github.io/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/moqaddasi.github.io/static/media/p2.987c883e6e66df8a1228.webp",
+    "static/media/about.svg": "/moqaddasi.github.io/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/moqaddasi.github.io/index.html",
+    "main.6c8505f8.css.map": "/moqaddasi.github.io/static/css/main.6c8505f8.css.map",
+    "main.273bf9ee.js.map": "/moqaddasi.github.io/static/js/main.273bf9ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4778faf.css",
-    "static/js/main.e0761944.js"
+    "static/css/main.6c8505f8.css",
+    "static/js/main.273bf9ee.js"
   ]
 }
