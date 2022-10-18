@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.7a653bcb.css",
-    "main.js": "./static/js/main.1d55881d.js",
+    "main.css": "./static/css/main.0a41e3fa.css",
+    "main.js": "./static/js/main.4425755c.js",
     "static/media/Me.jpg": "./static/media/Me.e5c10a6218c5665e65f8.jpg",
     "static/media/MeAbout.jpeg": "./static/media/MeAbout.170a8600381c599e5966.jpeg",
     "static/media/testimonial-2.webp": "./static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
     "static/media/Ziba Akbari.svg.png": "./static/media/Ziba Akbari.svg.445aab2b6b1f474d2672.png",
-    "static/media/AmirhoseinMoqaddasiResume.pdf": "./static/media/AmirhoseinMoqaddasiResume.0b0b02b863ccd505999e.pdf",
+    "static/media/AmirhoseinMoqaddasiResume.pdf": "./static/media/AmirhoseinMoqaddasiResume.efbacd43147a8b3da7c8.pdf",
     "static/media/p1.webp": "./static/media/p1.52f0f3a89c11044c2037.webp",
     "static/media/p5.webp": "./static/media/p5.40f22911cc8104bfdf42.webp",
     "static/media/services.svg": "./static/media/services.2d6c88f25842315ca095.svg",
@@ -19,11 +19,11 @@
     "static/media/p2.webp": "./static/media/p2.987c883e6e66df8a1228.webp",
     "static/media/about.svg": "./static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "./index.html",
-    "main.7a653bcb.css.map": "./static/css/main.7a653bcb.css.map",
-    "main.1d55881d.js.map": "./static/js/main.1d55881d.js.map"
+    "main.0a41e3fa.css.map": "./static/css/main.0a41e3fa.css.map",
+    "main.4425755c.js.map": "./static/js/main.4425755c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a653bcb.css",
-    "static/js/main.1d55881d.js"
+    "static/css/main.0a41e3fa.css",
+    "static/js/main.4425755c.js"
   ]
 }
