@@ -35,8 +35,8 @@ import SkillImg8 from './assets/img/skills/XD.png';
 import SkillImg6 from './assets/img/skills/Tailwind.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/Ziba Akbari.svg.png';
-import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
+import ZibaAkbari from './assets/img/testimonials/Ziba Akbari.svg.png';
+import NiushaSangsefidi from './assets/img/testimonials/Niusha Sangsefidi.jfif';
 
 // navigation
 export const navigation = [
@@ -74,7 +74,7 @@ export const social = [
   },
   {
     icon: <FiGithub />,
-    href: 'https://github.com/amirhoseinmoqaddasi/',
+    href: 'https://github.com/Moqaddasi',
   },
   {
     icon: <FiTwitter />,
@@ -223,18 +223,18 @@ export const services = [
 // testimonials
 export const testimonials = [
   {
-    authorImg: TestiImage1,
+    authorImg: ZibaAkbari,
     authorText:
       'He has a flexible personality and almost high emotional intelligence, so it is easy to interaction with him at work. He is eager to learn and do challenges. He loves his job and tries to develop with the most qualified syntax.',
     authorName: 'Ziba Akbari',
     authorPosition: 'FrontEnd web developer, Chargoon',
   },
   {
-    authorImg: TestiImage2,
+    authorImg: NiushaSangsefidi,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      `Amir's a clear communicator with the tenacity and confidence to really dig in to tricky design scenarios and the collaborative friction that's needed to produce excellent work.`,
+    authorName: 'Niusha Sangsefidi',
+    authorPosition: 'FrontEnd web developer, Chargoon',
   },
   // {
   //   authorImg: TestiImage3,
